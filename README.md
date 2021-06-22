@@ -1,5 +1,3 @@
-FOLLOW PURPLE-CSGO ,期末考试作业
-
 
 1. # CSGO工具箱 项目说明
    
