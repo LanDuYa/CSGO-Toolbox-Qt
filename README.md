@@ -1,3 +1,6 @@
+FOLLOW PURPLE-CSGO ,期末考试作业
+
+
 1. # CSGO工具箱 项目说明
    
    > Qt版项目已经搁置，正在使用Go+Wails+Vue重构。
